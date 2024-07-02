@@ -23,7 +23,6 @@ export default function Cadastro() {
     }
   }
 
-
   return (
     <ScrollView flex={1} p={5} backgroundColor={'white'}>
 
